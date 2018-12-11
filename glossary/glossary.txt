@@ -252,7 +252,7 @@
 一是一，二十二	to call a spade a spade
 多个朋友多条路	the more friends you have the more options you have in life
 下台阶	to give someone an out
-打小算盘	to act in one's own self-interest
+打小算盘	to at in one's own self-interest
 坐山观虎	sit this one out and reap the spoils later
 斗羊毛出在羊身上	there's no such thing as a free lunch
 一口吃成个胖子	to wave a magic wand and get what one wants
@@ -507,515 +507,192 @@
 试炼者	trial-takers, cultivators
 丈	ten feet
 打量	sized up
-空间戒指	interspatial ring
-法则	laws, nomological
-法则领悟	nomological insight
-法器	Dharma artifact, enchanted armament
-法宝	Dharma treasure
-法术	Dharma spells
-法力	Dharmic powers
-法门	Dharmic formulation
-周天	Heavenly Cycle
-道藏楼	Dao Repository
-灵丹	Spirit Pills
-灵石	Spirit Stones
-修行界	cultivation world
-地火	Earth fire
-葫	Calabash, gourd
-超品	transcendent-grade
-飞剑	flying sword
-道符	Dao talisman
-道法	Dharmic Dao
-定身术	Immobilizing Spell
-祸害	wreaked havoc
-传音	a voice transmission
-散修	itinerant cultivator
-图录	totem
-血髓	blood marrow
-热血沸腾	ardor and zeal coursing through their blood
-青龙	azure dragon
-朱雀	vermilion bird
-提炼	extraction
-金乌	Golden Crow
-神魔	Godfiend
-家族	family clan
-女帝	Great Empress
-随意	nonchalantly, casually, indifferently
-老祖	Patriarch
-老族长	Patriarch
-峰	peak
-师公	Grandmaster, Martial Grandfather
-师爷	Grandmaster, Martial Grandfather
-师侄	Martial Nephew, Martial Niece, Apprentice-Nephew, Apprentice-Niece
-师弟	Junior Brother, Junior Martial Brother, Junior Apprentice-Brother
-师兄	Senior Brother, Senior Martial Brother, Senior Apprentice-Brother
-师姐	Senior Sister, Senior Martial Sister, Senior Apprentice-Sister
-师妹	Junior Sister, Junior Martial Sister, Junior Apprentice-Sister
-师姑	Aunt-Master, Martial Aunt
-师叔	Uncle-Master, Martial Uncle, Aunt-Master, Martial Aunt
-师博	Uncle-Master, Martial Uncle
-师父	Master
-前辈	Senior
-晚辈	Junior
-蛊	Gu
-关门弟子	final disciple
-亲传弟子	personal disciple
-直传弟子	inherited-teachings disciple
-记名弟子	in-name disciple
-核心弟子	core disciple
-外门弟子	outer sect disciples
-内门弟子	inner sect
-长老	Elder
-太上长老	Grand Elder
-门主	sect master
-教主	sect master
-弟子	disciple
-公子	Young Master, Young Sir
-阵盘	formation disk, array disk
-洗精伐髓	Marrow Cleansing
-经脉	meridians
-任督二脉	conception and governor vessels
-拳法	fist techniques, fist-arts
-秘法	mystic technique, mystic-arts
-药渣	herbal dregs
-功法	cultivation technique
-便宜你	you lucked out
-白活	lived in vain
-中土	heartlands
-化形	manifestation
-祖器	ancestral artifact, ancestral armament
-王	prince, king, monarch
-公爵	duke
-侯爵	marquis
-伯爵	earl
+狂战士	Berserker
+巫师	warlock
+盗贼	bandit
+弓箭手	archer
+魔法师	mage
+剑士	Swordsman
+初级剑师	Beginner Sword Master
+剑师	Sword Master
+剑圣	Sword Sage
+中级剑士	Intermediate Swordsman
+高级剑士	Advanced Swordsman
+青铜	bronze
+银白	silver
+金黄	gold
+魔法学徒	mage apprentice
+牧师	cleric
+神官	priest
+执事	steward
+男爵	Baron
 子爵	viscount
-男爵	baron
-秘境	mystic realm
-离火	Li Fire
-三足	three-legged
-器灵	Item Spirit, Artifact Spirit
-天道	Heavenly Dao
-纯阴	pure Yin
-纯阳	pure Yang
-混沌鸿蒙	Primordial Chaos
-联盟	alliance
-灭世狼烟	Apocalyptic Fumes
-怪不得	It was no wonder
-一览	a mere glance
-按照	according to the
-合乎情理	well within reason
-撒娇	wheedle
-除了	Apart from
-自幼	at a very young age
-一脸无辜	gave a perfectly guileless look
-游山玩水	jaunt
-和睦	rapprochement
-剑道	Sword Dao, path of the sword, way of the sword
-孤阴不长，独阳不生	Lone Yin did not lead to birth and solitary Yang did not allow growth
-太乙	Primordial Unity
-乾坤袋	Cosmic Bag, Cosmos Bag, Bag of the Cosmos
-妖	demon, Fey, demonic spirits
-魔	fiend, demon
-邪	heretic, heretical, evil, sinister.
-闭关	seclusion
-魔仆	demonic servant
-宁静	placid
-迷离	dazed
-恍惚	adrift
-丹田	dantian
-迷蒙	misty
-九婴	Nine Neonate
-两败俱伤	internecine outcome
-转世者	Reincarnators
-君王	sovereign, monarch, overlord
-空间节点	spatial node
-剑心	Heart of the Sword
-剑意	sword intent
-剑灵	sword spirit
-剑魂	sword soul
-悟道	enlightenment
-阵法	array formation
-陛下	Your Majesty
-娘娘	Her Majesty
-空间法则	spatial dimension laws
-小丫鬟	maidservant
-斜眼	looked askance
-眉心	glabella, area between the brows
-火系法则	fire-elemental laws
-蛟	wyrm, flood dragon
-体魄	physique
-吐血	vomiting blood
-吞噬法则	engulfing law
-中年人	middle-aged man
-血脉	bloodline
-顿悟	epiphany
-胖子	Fatty, Fatso
-战斗技巧	combat skill
-防术	defensive skill
-身法	movement technique
-战技	offensive skill
-贞洁	Chastity
-节制	Temperance
-慷慨	Charity
-勤奋	Diligence
-耐心	Patience
-宽容	Kindness
-谦逊	Humility
-傲慢	Pride
-嫉妒	Envy
-暴食	Gluttony
-色欲	Lust
-暴怒	Wrath
-怠惰	Sloth
-贪婪	Greed
-施主	Benefactor, Patron
-会心一笑	gave a knowing smile
-菩提树	bodhi tree
-阿弥陀佛	Amitabha
-菩萨	Bodhisattva
-禅师	Zen Master
-法眼	Dharma Eyes
-后天	Postnatal
-先天	Connate
-实丹	True Core
-虚丹	False Core
-金丹	Golden Core
-修仙人	immortal cultivator
-修行人	cultivators
-名妓	renowned courtesans
-两银子	taels of silver
-主持	abbot
-庵	convent
-庙	temple
-寺	monastery
-点头道	nodded and said
-拉倒吧	forget it
-手机	cell phone
-救人一命胜造七级浮屠	Saving a life is better than building a seven-storied pagoda
-天眼	Heavenly Eye
-正道	orthodox
-邪道	unorthodox
-天仙	Sky Immortal
-真仙	Perfected Immortal
-金仙	Golden Immortal
-大罗	Zenith Heaven
-圣人	Saint, Sage
-三千大世界	Trichiliocosm
-道域	Dao Domain
-道心	Dao Heart
-道果	Dao Fruit
-道种	Dao Seed
-道树	Dao Tree
-魔神	fiendcelestial
-甘霖符	Drought Rainfall Charm
-护甲术	Protective Armor Spell
-妖魔	fiendish demon
-城主	City Lord
-大巫	Grand Magus
-巫派	Magus Sect
-巫姥	Magistress
-天巫	Heaven Magus
-巫女	Magus Maiden
-水族	Water race
-天地之力	Heaven and Earth powers
-郡守	County Governor
-郡	county
-郡城	county city
-县城	provincial city
-县	province
-州	prefecture
-游丝	Gossamer
-御史台	Censorate
-阁老	Cabinet Elder
-巡按	Roving Censor
-左都御史	Left Censor-in-Chief
-监察御史	Monitor Censor
-州牧	Prefecture Overseer
-御剑飞行	Sword Kinesis Flight
-技近乎道	Expertise Nearing Dao
-元婴	Nascent soul
-凝气	Qi Condensation
-炼气	Qi Refinement
-炼虚	Void Refinement
-合体	Fusion
-大乘	Mahayana
-渡劫	Tribulation Transcendence, surviving the tribulation, transcending the tribulation
-筑基	Foundation Establishment
-结丹	Core Formation
-化神	Soul Formation
-婴变	Soul Transformation
-问鼎	Ascendant
-阴虚	Void Yin
-阳实	Materialize Yang
-窥涅	Nirvana Scryer
-净涅	Nirvana Cleanser
-碎涅	Nirvana Shatterer
-空涅	Ethereal Nirvana
-空灵	Ethereal Spirit
-空玄	Ethereal Profound
-空劫	Ethereal Tribulation
-天尊	Heavenly Venerate
-踏天	Heaven Trampling
-上仙	Exalted Immortal
-仙王	Immortal King
-仙君	Immortal Monarch
-仙帝	Immortal Emperor
-成仙	Immortal Ascension
-天劫	Heavenly Tribulation
-斩灵	Spirit Severing
-古境	Ancient Realm
-准道境	Quasi-Dao Realm
-道境	Dao Realm
-超脱境	Transcendence
-道源境	Dao Source
-至尊	Paragon
-问道	Dao Seeking
-祖境	Ancestor Realm
-八卦	Eight Trigrams
-风水	Feng Shui
-阵旗	array flags
-丹道	alchemy
-鼎	tripod
-簋	cauldron
-丹药	elixirs
-药草	herbs
-灵草	spirit herbs
-灵宝	numinous treasure
-袍	robe
-联姻	marriage alliance
-叩头	kowtow
-抱拳	cupped fists
-阁	pavilion
-塔	pagoda
-洞府	Cave Abode
-仙子	Fairy
-莲花	lotus flower
-掐诀	hand seals
-炼	refine
-時辰	two hours
-兩	tael
-文	thousandth of a tael (use it judiciously)
-里	500 meters
-寸	inch
-三界	Three Realms
-六道轮回	Six Paths of Reincarnation
-业	negative karma
-缘	fate
-因果	karma
-功德	merit
-道	Dao
-五行	Five Elements
-镖局	Escort Agency
-镖人	escort
-内力	internal energy
-点脉	striking the acupuncture points
-经	sutra
-吐纳	expiration
-走火入魔	Qi deviation
-心魔	mental demons
-初期	early-stage
-中期	mid-stage
-后期	late-stage
-巅峰	peak
-圆满	perfected
-半步	half-step
-灵宝山	Numinous Treasure Mountain
-护法	Guardians
-尊者	Supremacy
-碧游宫	Green Touring Palace
-鸳鸯飞剑	Lovers' Swords
-黑洞	black hole
-如来	Gautama
-真人	Perfected
-灵宝道祖	Numinous Treasure Dao Ancestor
-元始道祖	Primordial Beginning Dao Ancestor
-太上道祖	Grand Supreme Dao Ancestor
-灵宝天尊	Heavenly Lord of Numinous Treasure
-元始天尊	Heavenly Lord of Primordial Beginning
-道德天尊	Heavenly Lord of the Dao and its Virtue
-三清	Three Pure Ones
-道人	Daoist
-大世界	Great World
-小世界	Small World
-小成	initial success
-大成	phenomenal success
-虚空挪移	Void Transference
-真龙	True Dragon
-祖龙	Ancestral Dragon
-极品	supreme-grade
-上品	superior-grade
-下品	inferior-grade
-中品	medial-grade
-大能	mighty figure
-天庭	Heavenly Court
-洞天	Grotto-heaven
-老太君	matriarch
-天榜	Heaven roll
-神榜	God roll
-地榜	Earth roll
-人榜	Man roll
-老怪	Curmudgeon
-摩诃	Mahākāśyapa
-幽水	Nether Water
-炷香	five minutes
-盏茶	ten minutes
-传讯印记	transmission mark
-道祖	Dao Ancestor
-罗汉	Arhat
-法师	Venerable One
-坐镇	hold down, preside over
-太阳烛照	Extreme Yang Illumination
-太阴幽荧	Extreme Yin Nether Glow
-鲲鹏	Kun Peng
-肉身成圣	Physical Establishing Sage
-神隐术	Divine Concealment Spell
-隐身术	Invisibility Spell
-仙府	immortal abode
-百花	Centaurea
-药师	Apothecary
-江逸	Jiang Yi
-西山	Western Hills
-江如虎	Jiang Ruhu
-天羽城	Skyplume City
-旁系	collateral
-大长老	Grand Elder
-元力	essence force
-江水决	Jiang Water Art
-水系	water-elemental
-天星	Stellarsky
-大陆	continent
-五大家族	five great family clans
-天界	Heavenly Realm
-天帝	Celestial Thearch
-九阳	Nine Yang
-诡异	strange
-老者	Elder
-涟漪	ripple
-咻咻	swish swish
-九天	Nine Heavens
-钧	18 kg
-口诀	formulation
-无名	nameless
-少阴心经	Shaoyin meridian
-攒竹穴	Zhanzhu acupunture point
-唔	Huh
-粗布	rough sackcloth
-大院	courtyard
-铸鼎境一重	first stage of the Cast Tripod Realm
-铸鼎境二重	second stage of the Cast Tripod Realm
-铸鼎境三重	third stage of the Cast Tripod Realm
-江豹	Jiang Bao
-铸鼎境	Cast Tripod Realm
-管事	housekeeper
-流星拳	Shooting Star Punch
-缠丝手	silk hand
-草参	grass ginseng
-白芷	dahurian angelica
-姜黄	curcuma longa
-二十钱	20'qian'/mace
-息时间	two or three seconds/in the time it took a breath
-消耗	consume/use up
-时辰	two hours
-盘坐	sit cross-legged
-清点	take stock
-药力	medical efficacy
-柳长老	Elder Liu
-侍女	maidservant
-聚珍阁	Pearl Gathering Pavilion
-姬听雨	Ji Tingyu
-蛇鞭腿	Snake Whip Leg
-符文	runic patterns
-单膝	genuflect
-冥皇	Netherworld King
-冥帝	Netherworld Emperor
-骸骨巨人、尸人、尸兽和阴兵	skeleton giants, zombies, zombie beasts and yin soldiers
-九天锁星阵	Empyreal Star Lock Array
-强烈震撼	astounded
-不死冥皇	Undying Netherworld King
-老不死	Undying Old Fart
-火龙剑	Fire Dragon Sword
-冥界	Netherworld Realm
-大道	Great Dao
-天星大陆	Stellarsky Continent
-融合	fuse
-一丝	a sliver
-紫府境	Purple Mansion Realm
-神游境	Soul Travel Realm
-元力丹	essence force elixir
-江恨水	Jiang Henshui
-药草简录	Record on Medicinal Herbs
-摔碑手	Wrestling Hand
-四号田	Plantation Four
-修炼	cultivate
-一缕	a wisp
-运转	circulate
-铁头功	Iron Head Technique
-柱香	five minutes
-大少爷	Great Young Master
-春芽	Chunya
-黑色元力	black essence forces
-小奴	Xiaonu
-老妈子	old chambermaid
-风月楼	Fengyue Brothel
-势力	faction
-幻影拳	Phantom Punch
-人阶	Man-tier
-地阶	Earth-tier
-天阶	Heaven-tier
-心神一动	With that thought,
-斤	600 grams
-人品	Man-tier
-十钱	one liang/50 grams
-一钱	five grams
-陪练	sparring partner
-练功房	Technique Practising Room
-入门	Entry Stage
-精通	Profiecient Stage
-大成	Phenomenal Stage
-暴雨拳	Thunderstorm Fist
-翊小姐	Young Mistress Yi
-蓝色元力	blue essence force
-江松	Jiang Song
-尺	one-third of a metre
-迷幻步	Psychedelic Step
-翊凌雪	Yi Lingxue
-神武国	Divine Martial Kingdom
-江如龙	Jiang Rulong
-幻灵手	Fantasy Spirit Hands
-宝器	Treasured Artifact
-利器	Keen Artifact
-灵器	Numinous Artifact
-圣器	Sacred Artifact
-费老	Elder Fei
-杨管事	Manager Yang
-翊飞儿	Yi Feier
-聚灵阵	spirit concentration spell
-总管	Chief Supervisor
-一品	first-rate
-元魂丹	Essence Soul Pills
-灵神丹	Spirit Pills
-黑参丹	Black Ginseng Elixirs
-元力丹	Essence Force Pills
-黄参丹	Yellow Ginseng Elixirs
-丹房	Elixir Room
-炼丹房	alchemy lab
-镇西王	Western Garrison Liege Lord
-演武殿	Martial Arts Demonstration Hall
-灵兽山	Mt. Spirit Beast College
-镇西军	West Garrison Army
-江云山	Jiang Yunshan
-刑堂	Disciplinary Court
-副长老	Deputy Elder
-南院	Southern Court
-圣品	saint-grade
-西院	Western Court
-江家大院	Jiang Residence
-武殿	Martial Arts Hall
-江家	Jiang Clan
-江顾水	Jiang Gushui
-江如狼	Jiang Rulang
-摔碑手	Wrestling Hand
-铸鼎境五重	fifth stage of the Cast Tripod Realm
-极神步	Extreme Divine Steps
-铸鼎境七重	seventh stage of Cast Tripod Realm
-武堂长老	Martial Court Elder
+教宗	Pope
+魔弦	Prismatic Flux
+卷轴	scroll
+炼金术	alchemy
+苦修士	ascetic
+金币	gold coin
+炼金师	metallurgist
+神术	theurgy
+神术师	theurgist
+女仆	maidservant
+冥想法则	nomological cogitation
+大魔法师	archmage
+魔法元素	magical elements
+魔法值	mana
+林立	Lin Li
+安度因	Andoine
+法师	mage
+元素排列	elemental sequencing
+清晰	Clarity
+法术	spells
+加洛斯	Jarrosus
+翡翠高塔	Emerald Tower
+葛瑞安	Gerian
+药剂师协会	Pharmacist Association
+费雷	Felic
+魔法公会	Guild of Magic
+洛斯交易所	Jarrosus Exchange
+高等精灵	High Elves
+加洛斯城	Jarrosus City
+奥法药剂	Arcane Magic Potion
+老奥丁	Old Odin
+梅林家族	Merlin Family
+克伦威尔	Cromwell
+老梅林	Old Merlin
+罗琳	Rowling
+伊娜	Ina
+银须草	silver hairgrass
+太阳草	sungrass
+梦境花	dreampetal
+泰罗果	terocone
+净化药剂	Purifying Potion
+黄昏诅咒	Twilight Curse
+死亡之心	Heart of Death
+狮蝎	Manticore
+冒险者公会	Adventurers Guild
+低语森林	Forest of Whispers
+落日山脉	Sunset Mountains
+凯文	Kevin
+麦格雷尼	McGrenn
+魔兽	magical beast
+侦测法术	Detection Spell
+短暂神格药剂	Ephemeral Divinity Potion
+无尽风暴之戒	Ring of Endless Storm
+黑莲花	black lotus
+宁神花	peacebloom
+气爆术	Gas Blast Spell
+魔力	mana
+火焰之手	Flaming Hands
+双足飞龙	Wyvern
+冲击水幕	Waterfall Strike
+等级认证	level certification
+唤醒药剂	Awakening Potion
+魔导士	Magic Shooter
+法里奥	Fario
+法兰王国	Felan Kingdom
+埃文	Evan
+艾萨克	Isaac
+艾利奥特	Elliot
+安德鲁	Andrew
+城主	castellan
+黑暗年代	Dark Ages
+格林先生	Mr Grimm
+城主府	Castellan Mansion
+首席法师	Chief Mage
+震慑术	Terror Spell
+屠魔山谷	Demon Fall Valley
+药剂师公会	Pharmacists Guild
+强能水晶	Strong Energy Crystal
+亚伦－马齐斯	Aaron Matsis
+银币	silver coins
+血色兄弟会	Blood Brotherhood
+矿脉	mineral veins
+安东尼－罗林	Anthony Rolin
+达芙妮	Daphne
+暗月	Dark Moon
+曼尼斯家族	Mannes Family
+萨鲁曼家族	Saruman Family
+罗林家族	Rolin Family
+谜蓝宝石	Enigma Sapphire
+阴影之都	Shadow City
+巫妖	Lich
+利维坦猩猩	Leviathan Gorilla
+秘银	mithril
+锻造	forging
+炼金	alchemy
+附魔	magical enchantment
+铭文	inscription
+无尽世界	Endless World
+深邃之银	deep silver
+佣兵公会	Mercenary's Guild
+点金棒	gold rod
+卡雷卡家族	Carreca Family
+咒术师	Conjurer
+鲁本－萨鲁曼	Reuben Saruman
+魔法波动	magical wave
+萨鲁曼	Saruman
+索萨	Sosa
+马修斯	Matthew
+冒险者	adventurer
+伊瑟拉－曼尼斯	Ysera Mannes
+镀金玫瑰	Gilded Rose
+伊瑟拉	Ysera
+鲁本	Reuben
+歌唱水晶	singing crystal
+魔能药剂	Magick Potion
+魔晶	magical crystal
+大魔导士	archmage
+闪金	Glittergold
+水晶卡	crystal card
+魔法金属	magical metal
+附魔师	magical enchanter
+精金	adamantine
+永恒精金	Eternal Adamantine
+梦境之铁	dream iron
+深渊秘银	abyss mithril
+符文精金	rune's adamantine
+符文	rune
+虚空行者	Void Walker
+阿扎达斯	Azardas
+星辰沙	star sand
+紫水晶容器	amethyst vessel
+毁灭之龙	Dragon of Destruction
+龙血墨水	Dragon's Blood Ink
+水晶笔	crystal pen
+魔纹	mageweath
+魔力回路	magic circuit
+魔力节点	magic node
+怒焰之袍	Robe of Wrath
+安瑞尔世界	Anril
+巨龙之力	Dragon's Clout
+永恒智慧之流	Flow of Eternal Wisdom
+罗德	Rode
+安东尼	Anthony
+奥兰纳	Alanna
+巴瑟罗尔	Bathrilor
+元素护盾	elemental shield
+风刃	wind blade
+怒焰风暴	Flaming Storm
+格林－伯恩塞德	Grimm Burnside
+蛮牛之力	Bull's Strength Potion
+安瑞尔	Anril
+法师之神	God of Mages
+格林	Grimm
+格雷斯科	Geresco
+恢复药水	Recovery Potion
+清醒药水	Sobriety Potion
+清醒药剂	Sobriety Potion
+老格林	Old Grimm
+龙血草	Dracaena grass
+虚空花	netherbloom
+阴影之巢	Shadow's Nest
+神匠	Divine Smith
+巫师之眼	Warlock's Eyes
+二手魔法师	half-baked mage
+恐惧药剂	Fear Potion
+恶魔之泪	Devil's Tears
+梦魇草	Nightmare Seed
+埃斯霍尔	Eiserhol
+卢克	Luke
