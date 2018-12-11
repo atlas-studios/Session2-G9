@@ -5027,6 +5027,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“干它们。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Agnes" changedate="20181211T143201Z" creationid="Agnes" creationdate="20181211T143201Z">
+        <seg>“Finish them."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“幻影拳！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180819T084406Z" creationid="USER" creationdate="20180808T080824Z">
@@ -22744,6 +22752,14 @@ The person who arrived was a teenage girl dressed in fiery-red martial artist ro
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180829T140142Z" creationid="cktal" creationdate="20180813T074159Z">
         <seg>Lin Li's scalp tingled upon hearing the sound.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>林立咬了咬牙，从牙缝中吐出了三个字。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Agnes" changedate="20181211T143806Z" creationid="Agnes" creationdate="20181211T143806Z">
+        <seg>Lin Li clenched his teeth </seg>
       </tuv>
     </tu>
     <tu>
