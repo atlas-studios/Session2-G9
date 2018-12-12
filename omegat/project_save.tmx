@@ -10478,8 +10478,8 @@ Jiang Yi’s heart ached as he read Xiaonu’s ugly, spider-like handwriting.</s
       <tuv lang="ZH-CN">
         <seg>…………</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Vivian" changedate="20180912T034122Z" creationid="Vivian" creationdate="20180912T034122Z">
-        <seg></seg>
+      <tuv lang="EN-US" changeid="xingtingjing" changedate="20181212T165015Z" creationid="Vivian" creationdate="20180912T034122Z">
+        <seg>...</seg>
       </tuv>
     </tu>
     <tu>
@@ -12833,6 +12833,14 @@ As such, he decided to keep the fact that his power was improving by leaps and b
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T012026Z" creationid="Joey" creationdate="20180807T153042Z">
         <seg>When the two enemies spotted each other, they locked eyes in mutual fury.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>今天任务开始得有点晚，等到三人从噩梦山脉回来的时候，已差不多是吃晚饭的时间了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="xingtingjing" changedate="20181212T165404Z" creationid="xingtingjing" creationdate="20181212T165404Z">
+        <seg>When the day's task began, it was a little late. By the time the trio </seg>
       </tuv>
     </tu>
     <tu>
