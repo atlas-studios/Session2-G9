@@ -696,3 +696,5 @@
 梦魇草	Nightmare Seed
 埃斯霍尔	Eiserhol
 卢克	Luke
+麦德林	Medellin
+霍伦	Hoeren
