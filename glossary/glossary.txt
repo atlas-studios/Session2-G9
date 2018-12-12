@@ -704,3 +704,4 @@
 星辰悲歌	Star Elegy
 魔能	Magicka
 马迪亚斯	Mathias
+欧灵	Orrin
