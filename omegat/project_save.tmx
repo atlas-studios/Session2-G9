@@ -6531,6 +6531,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“是的，霍伦先生。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="faithsiauw" changedate="20181212T061031Z" creationid="faithsiauw" creationdate="20181212T061031Z">
+        <seg>"Yes, Mr Hoeren."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“是这么回事……”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20181012T090426Z" creationid="Vivian" creationdate="20181012T090426Z">
@@ -22711,6 +22719,14 @@ The person who arrived was a teenage girl dressed in fiery-red martial artist ro
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180814T131626Z" creationid="Vivian" creationdate="20180814T131626Z">
         <seg>Lin Li bent over Cromwell, the smile never leaving his face. Only his eyes revealed a menacing light, such that Cromwell never doubted he'd kill him with a lift of his hand. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>林立倒是老实，很干脆的就认了下来。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="faithsiauw" changedate="20181212T061142Z" creationid="faithsiauw" creationdate="20181212T061142Z">
+        <seg>Lin Li remained honest and admitted frankly.</seg>
       </tuv>
     </tu>
     <tu>
