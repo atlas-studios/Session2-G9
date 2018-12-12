@@ -699,3 +699,7 @@
 麦德林	Medellin
 霍伦	Hoeren
 安眠水晶	Hypnotic Crystal
+龙眼宝石	Dragon's Eye
+大地之心	Heart of Earth
+星辰悲歌	Star Elegy
+魔能	Magicka
