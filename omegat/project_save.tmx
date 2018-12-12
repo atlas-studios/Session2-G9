@@ -24264,10 +24264,26 @@ If one wished to enter the Martial Arts Hall without a level of power in the Pur
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>永恒精金可是好东西，天生的稳定属性，造就了它绝佳的元素防护能力，除了用来锻造点金棒之外，还常常用在铠甲锻造上面，象一般的战士铠甲，只要薄薄的镀上一层永恒精金，立刻就能将它的魔法防御力提升一个层次。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="xingtingjing" changedate="20181212T044039Z" creationid="xingtingjing" creationdate="20181212T044039Z">
+        <seg>Eternal Adamantine was good stuff. It had exceptional elemental defense abilities due to its natural attribute of stability, which rendered it useful in the forging of gold rods and, often times, armor. Take for instance, the magical defense capacity of an average warrior armor would be upped by a level instantly with just a thin layer of Eternal Adamantine. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>永恒精金号称世界上最稳定的金属，以它为材料锻造的点金棒，最低限度也可以将附魔成功率提升百分之十以上！</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180926T071628Z" creationid="Vivian" creationdate="20180926T071510Z">
         <seg>The Eternal Adamantine was known as the most stable of all metals in the world. A gold rod forged from it could also increase the success rate of enchantment by at least ten percent!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>永恒精金矿脉里，除了出产安眠水晶之外，还常常能够采到一些稀有宝石，比龙眼宝石，大地之心，星辰悲歌之流，这些可都是真正的稀有宝石，即便是其中质量最差的，也绝不会比霍伦戒指上的红宝石逊色。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="xingtingjing" changedate="20181212T054010Z" creationid="xingtingjing" creationdate="20181212T054010Z">
+        <seg>In the mineral veins of Eternal Adamantine, in addition to Hypnotic Crystals, rare gemstones such as Dragon's Eye, Heart of Earth and Star Elegy could often be found as well. Those were genuine rare gemstones, even the worst of which were on par with, if not better than, the ruby on Hoeren's ring. </seg>
       </tuv>
     </tu>
     <tu>
@@ -31120,6 +31136,14 @@ Regardless of whether Jiang Yi was only suited to practice the lowest level of m
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>而且……</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="xingtingjing" changedate="20181212T044046Z" creationid="xingtingjing" creationdate="20181212T044046Z">
+        <seg>Moreover...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>而且使用这个二级魔法的，还只是一个不满二十岁的年轻法师。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180912T034609Z" creationid="Vivian" creationdate="20180814T101624Z">
@@ -31485,6 +31509,14 @@ Regardless of whether Jiang Yi was only suited to practice the lowest level of m
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180814T045220Z" creationid="Vivian" creationdate="20180811T072442Z">
         <seg>As for the Emerald Tower, it was of course the center of the storm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>而若是运气够好的话，说不定还有机会采出一块魔能水晶来，那可就不得了了，魔能水晶是什么东西，天生的魔力源泉，就算只是拇指大小的一块，它所能提供的魔力，也绝不会比一枚十五级魔晶少。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="xingtingjing" changedate="20181212T055924Z" creationid="xingtingjing" creationdate="20181212T055924Z">
+        <seg>If one got lucky, he might be able to find a piece of magicka crystal-that would be awfully wonderful. Being the natural source of mana, even a small piece of the size of a thumb would definitely be able to provide mana no less than a level-fifteen magical crystal could ever be. </seg>
       </tuv>
     </tu>
     <tu>
