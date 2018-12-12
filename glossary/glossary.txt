@@ -703,3 +703,4 @@
 大地之心	Heart of Earth
 星辰悲歌	Star Elegy
 魔能	Magicka
+马迪亚斯	Mathias
