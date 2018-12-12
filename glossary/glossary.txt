@@ -698,3 +698,4 @@
 卢克	Luke
 麦德林	Medellin
 霍伦	Hoeren
+安眠水晶	Hypnotic Crystal
