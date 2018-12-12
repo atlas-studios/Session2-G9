@@ -710,3 +710,4 @@
 奥德文	Odwin
 噩梦山脉	Nightmare Mountains
 公会大厅	guild's hall
+希恩	Sheehan
