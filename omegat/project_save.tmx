@@ -6627,6 +6627,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“有这样一条吗？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="faithsiauw" changedate="20181212T061753Z" creationid="faithsiauw" creationdate="20181212T061753Z">
+        <seg>"Is there such a rule?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“本周日，魔法公会将在翡翠高塔内拍卖三十瓶奥法药剂！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180904T053518Z" creationid="Vivian" creationdate="20180904T053518Z">
@@ -7401,8 +7409,8 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       <tuv lang="ZH-CN">
         <seg>“现在的年轻人，果然比我们这些老家伙有出息多了，哈哈……”中年人突然笑了起来，，只是一双眼睛却始终盯着林立：“奥兰纳魔法公会明文规定，公会魔法师之间严禁私斗，费雷魔法师，难道没人告诉过你吗？”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="faithsiauw" changedate="20181212T061705Z" creationid="faithsiauw" creationdate="20181212T061705Z">
-        <seg>"Young people nowadays, really yield more interest than us old folks, ha ha..." The middle-aged man suddenly burst out laughing, but a pair of eyes relentlessly gazed at Lin Li: "The Alanna Guild of Magic has explicitly stated that private conflict among guild mages is strictly prohibited. </seg>
+      <tuv lang="EN-US" changeid="faithsiauw" changedate="20181212T061747Z" creationid="faithsiauw" creationdate="20181212T061705Z">
+        <seg>"Young people nowadays, really yield more interest than us old folks, ha ha..." The middle-aged man suddenly burst out laughing, but a pair of eyes relentlessly gazed at Lin Li: "The Alanna Guild of Magic has explicitly stated that private conflict among guild magi is strictly prohibited. Mage Felic, has no one ever told you before?" </seg>
       </tuv>
     </tu>
     <tu>
@@ -7515,6 +7523,14 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20181005T033741Z" creationid="Vivian" creationdate="20181003T090255Z">
         <seg>"Looks like it's not mild. I'll have someone prescribe some medicine for you..." Lin Li did not dare to look into those fervent eyes. He mumbled a curse and was ready to slip away. That fervent look had frightened him, and he did not dare to continue hanging around this wench anymore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“看来你的记性不太好，不过不要紧，等你住进公会地牢之后，你有足够的时间回忆，现在——我以奥兰纳魔法公会仲裁者的身份宣布，以伤害同僚的罪名逮捕你，你有什么话，可以留到公会地牢里说，因为……你可能会住上很长一段时间。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="faithsiauw" changedate="20181212T062336Z" creationid="faithsiauw" creationdate="20181212T062336Z">
+        <seg>"It looks like your memory is fuzzy. But it won't matter, just wait until you land in prison, then you will have plenty of time to recall. Now - with my authority as Arbitrator of the Alanna Guild of Magic, you are under arrest for harming a fellow mage. If you have anything to say, you can wait until you land in the Guild dungeon, because... you might be there for a very long time."    </seg>
       </tuv>
     </tu>
     <tu>
