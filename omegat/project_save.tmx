@@ -600,8 +600,8 @@
       <tuv lang="ZH-CN">
         <seg>“不用看了。”就在马森进退两难的时候，林立却从他身后站了出来，一双眼睛紧紧盯着霍伦的右手：“马迪亚斯是我打伤的，跟他们两个没什么关系，我可以跟您回去，不过霍伦先生，我能不能冒昧的问一句，您跟巴瑟罗尔怎么称呼？”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="faithsiauw" changedate="20181212T064931Z" creationid="faithsiauw" creationdate="20181212T064618Z">
-        <seg>"There's no need to take a look." Just as Ma Sen found himself in a dilemma, Lin Li stepped out from behind him. His eyes firmly stared at Hoeren's right hand: "I was the one who injured Mathias. It has nothing to do with them. I can follow you back, but Mr Hoeren, may I take the liberty yo ask you one question? How do you address Bathrilor?" </seg>
+      <tuv lang="EN-US" changeid="faithsiauw" changedate="20181212T071021Z" creationid="faithsiauw" creationdate="20181212T064618Z">
+        <seg>"There's no need to take a look." Just as Ma Sen found himself in a dilemma, Lin Li stepped out from behind him. His eyes firmly stared at Hoeren's right hand: "I was the one who injured Mathias. It has nothing to do with them. I can follow you back, but Mr Hoeren, may I take the liberty to ask you one question? How do you address Bathrilor?" </seg>
       </tuv>
     </tu>
     <tu>
@@ -7623,6 +7623,14 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“看来你已经猜到了……”霍伦的笑容中，隐隐带着一丝快意，自从巴瑟罗尔从加洛斯回来之后，他就无时无刻不想着为儿子报仇。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="faithsiauw" changedate="20181212T072018Z" creationid="faithsiauw" creationdate="20181212T072018Z">
+        <seg>"Seems like you had already guessed it..." Hoeren's smile hid a tinge of pleasure. Ever since Bathrilor returned from Jarrosus, he had incessantly wanted to help his son take revenege.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“看来你病得还不轻，找人给你开点药吧……”林立不敢直视那狂热的目光，只是嘟嘟囔囔的骂了一句，就准备脚底抹油开溜，那种狂热的目光让他有些怕了，不敢再跟这丫头继续纠缠下去。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20181005T033741Z" creationid="Vivian" creationdate="20181003T090255Z">
@@ -12705,6 +12713,14 @@ As such, he decided to keep the fact that his power was improving by leaps and b
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T005621Z" creationid="USER" creationdate="20180803T102325Z">
         <seg>Every one of the hundreds of millions of Netherworld soldiers were astounded. Although he did not manifest an air of majestic might, he looked to be in good health. He had a chiseled face, ruddy cheeks, a long white beard, sword-like eyebrows, and star-like eyes. Despite the fact that he looked very old on the surface, he sent reverberations down their souls for he was in no way inferior to their master. It was even possible that he surpassed their master, the Undying Netherworld King.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>什么马迪亚斯，什么伤害同僚，不过是个借口而已……</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="faithsiauw" changedate="20181212T071055Z" creationid="faithsiauw" creationdate="20181212T071010Z">
+        <seg>Mathias, injuring a fellow mage, these were all simply excuses... </seg>
       </tuv>
     </tu>
     <tu>
@@ -19987,6 +20003,14 @@ He released a long sigh and gave a malevolent look. Gritting his teeth, he swore
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180831T064722Z" creationid="Vivian" creationdate="20180802T081643Z">
         <seg>Even if Lin Li was blind, at this moment, it would still have been clear to him as day. It was the Manticore, a level-five demonic beast that Andoine had mentioned!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>就算自己不打断马迪亚斯的四肢，他同样可以找其他借口帮儿子报仇，说到底……这里是奥兰纳魔法公会，是奥德文的势力范围，会长大人的儿子想找自己麻烦，实在有太多太多的办法，躲是躲不过去的。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="faithsiauw" changedate="20181212T071834Z" creationid="faithsiauw" creationdate="20181212T071834Z">
+        <seg>Even if he had not broken Mathias' arms and legs, he could have similarly found other excuses to help his son take revenge. In the end, this was Alanna Guild of Magic, Authen's sphere of influence. If the President's son wanted to ask for trouble, there were simply too many ways. He couldn't hide even if he wanted to.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -32119,6 +32143,14 @@ Regardless of whether Jiang Yi was only suited to practice the lowest level of m
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180914T032003Z" creationid="Vivian" creationdate="20180816T065957Z">
         <seg>Gerian and him had always been two of the most powerful mages in Jarrosus City. It was only by defeating him that he could establish himself as the number one mage in Jarrosus, and allow the Merlin Family to tide through future crises peacefully. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>自己活了五十多岁，就只有这么一个儿子，平日里看得比自己的性命还重，从小到大没骂过没打过，连重话都舍不得说他一句。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="faithsiauw" changedate="20181212T072206Z" creationid="faithsiauw" creationdate="20181212T072206Z">
+        <seg>He had lived for over 50 years, yet only had one son. He usually valued his son more than his own life, never scolding nor hitting him since he was young. He did not even dare to speak harsh words to his son.</seg>
       </tuv>
     </tu>
     <tu>
