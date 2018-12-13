@@ -711,3 +711,4 @@
 噩梦山脉	Nightmare Mountains
 公会大厅	guild's hall
 希恩	Sheehan
+达利安	Dalyan
