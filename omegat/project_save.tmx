@@ -5475,6 +5475,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“怎么是你这蠢货？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="faithsiauw" changedate="20181213T085941Z" creationid="faithsiauw" creationdate="20181213T085938Z">
+        <seg>"What are you, this idiot, doing here?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“怎么样，没受什么伤吧？”老人神色之间，带着浓浓的关切。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="faithsiauw" changedate="20181213T061452Z" creationid="faithsiauw" creationdate="20181213T061452Z">
@@ -7673,8 +7681,8 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       <tuv lang="ZH-CN">
         <seg>“现在，你知道我是什么意思了吗？”一个瞬发击退术重创霍伦之后，安度因仍不打算罢休，只见他一边说着，一边慢慢向树下的霍伦逼近，一双眼睛当中，正透出森森的杀意。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="faithsiauw" changedate="20181213T083845Z" creationid="faithsiauw" creationdate="20181213T083845Z">
-        <seg>"Now, do you know what I mean?" After inflicting heavy damage on Hoeren with a prompt repel spell, Andoine showed no signs of stopping. He spoke as he slowly approached Hoeren under the tree, his eyes glistening with ghastly murderous intent. </seg>
+      <tuv lang="EN-US" changeid="faithsiauw" changedate="20181213T085759Z" creationid="faithsiauw" creationdate="20181213T083845Z">
+        <seg>"Now, do you know what I mean?" After inflicting heavy damage on Hoeren with an Instant Repel spell, Andoine showed no signs of stopping. He spoke as he slowly approached Hoeren under the tree, his eyes glistening with ghastly murderous intent. </seg>
       </tuv>
     </tu>
     <tu>
@@ -10824,6 +10832,14 @@ Jiang Yi’s heart ached as he read Xiaonu’s ugly, spider-like handwriting.</s
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180929T020452Z" creationid="Vivian" creationdate="20180924T034930Z">
         <seg>Little Merlin felt his scalp bursting at that price, but he had no choice except to shore up his offer. Before he left the house, Matthew had instructed him to at least get ten bottles of Arcane Magic Potion back. There was only a pitiful three bottles with him now, not even half of ten bottles...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>一声“蠢货”叫得麦德林心里别提多憋屈了，在奥兰纳魔法公会里，可向来都只有他叫别人蠢货的时候，又何曾被别人这么叫过？但面对安度因，他却是半点也不敢辩驳，从天上降下来之后，还不得不赔着笑脸：“嘿嘿……谁让我运气好，成了你学生的试炼导师呢……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="faithsiauw" changedate="20181213T090744Z" creationid="faithsiauw" creationdate="20181213T090744Z">
+        <seg>The word "idiot" made Medellin extremely dejected. In the Alanna Guild of Magic, all along it was him who called other people idiots. Now, he was the one being called an idiot? But in the face of Andoine, he did not even dare to refute. When he descended from the sky, he even compensated with a smile: "Heh heh... Lady Luck is sure smiling on me, allowing me to be the trial master of your student..."</seg>
       </tuv>
     </tu>
     <tu>
@@ -29541,8 +29557,8 @@ Besides, should Elder Liu return, he could just say that he was trying to learn 
       <tuv lang="ZH-CN">
         <seg>疑惑之下抬眼望去，正看见麦德林在漂浮术的支持下，正以极快的速度向这边飞来，一边保持着飞行速度，还一边大声喊道：“安度因大爷，给个面子行不行？”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="faithsiauw" changedate="20181213T085747Z" creationid="faithsiauw" creationdate="20181213T085747Z">
-        <seg>He looked up in doubt and saw that Medellin was flying over at high speed with the help of the Levitation spell.  </seg>
+      <tuv lang="EN-US" changeid="faithsiauw" changedate="20181213T085857Z" creationid="faithsiauw" creationdate="20181213T085747Z">
+        <seg>He looked up in doubt and saw that Medellin was flying over at high speed with the help of the Levitation spell. As he maintained his flying speed, he shouted: "Master Andoine, would you give him a break?" </seg>
       </tuv>
     </tu>
     <tu>
