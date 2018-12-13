@@ -22561,6 +22561,14 @@ In other words, other people could beat you up as they fancied. You could always
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>把一瓶魔力药水倒进安眠水晶瓶里，等了几个月之后拿出来一喝，这一瓶魔力药水的效果，竟堪堪达到了唤醒药剂的效果！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="faithsiauw" changedate="20181213T140846Z" creationid="faithsiauw" creationdate="20181213T140846Z">
+        <seg>If you pour a bottle of magic potion into the Hypnotic Crystal bottle and drink it after a few months, the effects were that of an Awakening Potion! </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>把所有药草准备好，江逸擦了擦额头上的汗水，站起身朝外走去，却看到一个披头散发的老头正站在他身后盯着他看，这种感觉就像酣睡中发现厉鬼在侧般恐怖……</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T063149Z" creationid="USER" creationdate="20180810T060506Z">
@@ -22667,8 +22675,8 @@ In other words, other people could beat you up as they fancied. You could always
       <tuv lang="ZH-CN">
         <seg>据说无尽世界里，就有人做过实验。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="faithsiauw" changedate="20181213T140736Z" creationid="faithsiauw" creationdate="20181213T140736Z">
-        <seg>Legend says that one had done an experiment in the Endless World/</seg>
+      <tuv lang="EN-US" changeid="faithsiauw" changedate="20181213T140743Z" creationid="faithsiauw" creationdate="20181213T140736Z">
+        <seg>Legend says that one had done an experiment in the Endless World.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35858,6 +35866,14 @@ It seemed as though Martial Arts Halls had existed ever since the start of the e
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180831T040559Z" creationid="Vivian" creationdate="20180801T082457Z">
         <seg>It was a piece of underground wilderness, empty and vast. Seas of wild steelbloom prospered on the wild land. The blaze of purple and red was interspersed with dots of gray, the color of ghostskin. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>这简直就是药剂师梦寐以求的宝贝，特别是象林立这种，本身就已经达到宗师级别，身上又随时带着十七八瓶药剂的家伙，若是有一只安眠水晶瓶在手，那还不得被他玩出花来？</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="faithsiauw" changedate="20181213T141439Z" creationid="faithsiauw" creationdate="20181213T141439Z">
+        <seg>This was simply the stuff of pharmacists' dreams, especially those like Lin Li, who had already reached the level of a guru and carried 17 to 18 bottles of potion with him at all times. If he had got his hands on one of these bottles, wouldn't he want to play with them?  </seg>
       </tuv>
     </tu>
     <tu>
