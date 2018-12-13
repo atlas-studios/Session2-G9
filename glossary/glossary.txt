@@ -716,3 +716,4 @@
 马拉顿	Malaton
 法兰	Felan
 魔铁	fiend iron
+蝾螈	salamander	蝾螈
