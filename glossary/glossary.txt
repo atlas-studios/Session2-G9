@@ -712,3 +712,5 @@
 公会大厅	guild's hall
 希恩	Sheehan
 达利安	Dalyan
+精铁	indurium
+马拉顿	Malaton
