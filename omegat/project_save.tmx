@@ -4483,6 +4483,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“好的，请两位到这边看看。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="xingtingjing" changedate="20181213T162002Z" creationid="xingtingjing" creationdate="20181213T162002Z">
+        <seg>"Sure. Please follow me."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“好的，麻烦您稍等一下。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180829T044501Z" creationid="cktal" creationdate="20180730T091521Z">
@@ -4893,8 +4901,8 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       <tuv lang="ZH-CN">
         <seg>“对了，武器也要换一把……”但林立根本不去理他，上上下下的打量了一番之后，又自顾自的说道：“你那把双手巨剑倒是不错，可惜你不是魔武双修，没办法发挥它的最大威力，一会我带你去武器店转转，先搞一把称手的用着好了，等过一段时间，我再帮你想想其他办法……”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="xingtingjing" changedate="20181212T182755Z" creationid="xingtingjing" creationdate="20181212T182755Z">
-        <seg>"Oh yes, you'll need a new weapon too..." ignoring his comments, Lin Li surveyed him up and down and talked to himself, "Your giant two-handed swords are not bad, but it's a pity that you are not trained in both magic and force, so you can't unleash its maximal power. I'll bring you to the arsenal shop later to get you something handy. Then next time, I will help you figure out a way..." </seg>
+      <tuv lang="EN-US" changeid="xingtingjing" changedate="20181213T162119Z" creationid="xingtingjing" creationdate="20181212T182755Z">
+        <seg>"Oh yes, you'll need a new weapon too..." ignoring his comments, Lin Li surveyed him up and down and talked to himself, "Your two-handed giant sword is not bad, but it's a pity that you are not trained in both magic and force, so you can't unleash its maximal power. I'll bring you to the arsenal shop later to get you something handy. Then next time, I will help you figure out a way..." </seg>
       </tuv>
     </tu>
     <tu>
@@ -32307,6 +32315,14 @@ Regardless of whether Jiang Yi was only suited to practice the lowest level of m
       </tuv>
       <tuv lang="EN-US" changeid="xingtingjing" changedate="20181212T073849Z" creationid="xingtingjing" creationdate="20181212T070430Z">
         <seg>Following Lin Li's introduction, the old man hastily greeted Marson and Orrin and hurriedly said, "Alright then, I will come to meet you at night." </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>老板将两人带到一片武器架前，指着其中一把精铁锻造的双手巨剑问道：“您看这把双手巨剑如何？马拉顿锻造坊出产，奥兰纳冒险者公会的制式装备，价格也不算太贵，就收您一百金币好了。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="xingtingjing" changedate="20181213T162816Z" creationid="xingtingjing" creationdate="20181213T162102Z">
+        <seg>The man led them to a row of racks, all loaded with weapons. He pointed to a two-handed giant sword forged by indurium, "How about this one? Crafted by Malaton Forging Workshop, standard equipment at Alanna's Adventurers Guild. Moreover, its price is rather reasonable at only 100 gold coins." </seg>
       </tuv>
     </tu>
     <tu>
