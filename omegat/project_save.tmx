@@ -5315,6 +5315,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“当然，不信你问问你学生去。”反正麦德林脸皮也厚，被老家伙蠢货蠢货的叫着，也只当是被蚊子咬了两口，硬着头皮承认之后，又赔着笑脸，小心翼翼的劝道：“要不，你就看在奥德文的面子上，把这小子给放了吧……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="faithsiauw" changedate="20181213T091242Z" creationid="faithsiauw" creationdate="20181213T091242Z">
+        <seg>"Of course. If you don't believe me you can ask your student." Medellin was also thick-skinned Being called an idiot over and over again by this old man was no more than a few mosquito bites. After cheekily admitting this, he smiled and very cautiously warned: "Otherwise, just think about Odwin's reputation, let this one go..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“很简单！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T062431Z" creationid="USER" creationdate="20180809T100647Z">
@@ -10838,8 +10846,8 @@ Jiang Yi’s heart ached as he read Xiaonu’s ugly, spider-like handwriting.</s
       <tuv lang="ZH-CN">
         <seg>一声“蠢货”叫得麦德林心里别提多憋屈了，在奥兰纳魔法公会里，可向来都只有他叫别人蠢货的时候，又何曾被别人这么叫过？但面对安度因，他却是半点也不敢辩驳，从天上降下来之后，还不得不赔着笑脸：“嘿嘿……谁让我运气好，成了你学生的试炼导师呢……”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="faithsiauw" changedate="20181213T090744Z" creationid="faithsiauw" creationdate="20181213T090744Z">
-        <seg>The word "idiot" made Medellin extremely dejected. In the Alanna Guild of Magic, all along it was him who called other people idiots. Now, he was the one being called an idiot? But in the face of Andoine, he did not even dare to refute. When he descended from the sky, he even compensated with a smile: "Heh heh... Lady Luck is sure smiling on me, allowing me to be the trial master of your student..."</seg>
+      <tuv lang="EN-US" changeid="faithsiauw" changedate="20181213T090940Z" creationid="faithsiauw" creationdate="20181213T090744Z">
+        <seg>The word "idiot" made Medellin extremely dejected. In the Alanna Guild of Magic, all along it was him who called other people idiots. Now, he was the one being called an idiot? But in the face of Andoine, he did not even dare to refute. When he descended from the sky, he even compensated with a smile: "Heh heh... Lady Luck is sure smiling on me, allowing me to be the trial teacher of your student..."</seg>
       </tuv>
     </tu>
     <tu>
