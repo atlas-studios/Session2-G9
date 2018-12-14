@@ -5163,6 +5163,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“对不起，你没事吧？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Agnes" changedate="20181214T053008Z" creationid="Agnes" creationdate="20181214T053008Z">
+        <seg>"I'm so sorry, are you alright?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“对了……武殿！去武殿内做陪练去！这样不仅可以赚些银钱，还说不定能遇见姬小姐！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180922T061801Z">
@@ -20904,8 +20912,16 @@ The guard clad in black armor brought Jiang Yi into a corridor on the left-hand 
       <tuv lang="ZH-CN">
         <seg>她刚走出上心的休息室，迎面就走来一个人，措不及防的跟她撞到了一起！</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Agnes" changedate="20181214T052639Z" creationid="Agnes" creationdate="20181214T052639Z">
-        <seg>The moment she stepped out of Shangxin's waiting room, another person walked straight toward her and the both of them knocked into each other accidentally. </seg>
+      <tuv lang="EN-US" changeid="Agnes" changedate="20181214T053121Z" creationid="Agnes" creationdate="20181214T052639Z">
+        <seg>The moment she stepped out of Shangxin's waiting room, another person walked straight into her and the both of them knocked into each other without warning. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>她抬起头，发现面前站着一个年轻的男子，二十多岁的模样，一身西装笔挺，短发飞扬，长相不算很英俊，却充满那种让人舒服的阳光的味道。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Agnes" changedate="20181214T053049Z" creationid="Agnes" creationdate="20181214T053049Z">
+        <seg>She lifted her head </seg>
       </tuv>
     </tu>
     <tu>
