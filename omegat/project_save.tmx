@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“……可我只想要小斯哥哥。”上心一提起那个名字，刚收住的眼泪，又开始泛滥。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Agnes" changedate="20181214T044759Z" creationid="Agnes" creationdate="20181214T044759Z">
+        <seg>"... But I only want Brother Si." The moment Shangxin mentioned that name, she started weeping again.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“一万两！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180923T191347Z">
@@ -8105,6 +8113,14 @@ Jiang Yi had no desire to stir up trouble, but Jiang Bao clearly had no desire t
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20181003T061258Z">
         <seg>"It's nothing, Father. Go on without me, I'll be fine after taking a short rest here."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“没什么，我只是想要让你开心一点。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Agnes" changedate="20181214T044537Z" creationid="Agnes" creationdate="20181214T044537Z">
+        <seg>"It's nothing, I only want to make you happier." </seg>
       </tuv>
     </tu>
     <tu>
@@ -22351,8 +22367,8 @@ This meant his essence force refining speed was an entire thirty times slower th
       <tuv lang="ZH-CN">
         <seg>年小慕几乎要脱口而出，告诉她，今天去救了她的人，就是唐原斯。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Agnes" changedate="20181214T044338Z" creationid="Agnes" creationdate="20181214T044338Z">
-        <seg>Nian Xiaomu wanted to blurt out that it was Tang Yuansi who saved her today.</seg>
+      <tuv lang="EN-US" changeid="Agnes" changedate="20181214T044612Z" creationid="Agnes" creationdate="20181214T044338Z">
+        <seg>Nian Xiaomu wanted to blurt out that it was in fact Tang Yuansi who saved her today.</seg>
       </tuv>
     </tu>
     <tu>
