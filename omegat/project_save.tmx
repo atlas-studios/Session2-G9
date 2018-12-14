@@ -614,6 +614,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“不用不用，这些事都是我应该做的……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="faithsiauw" changedate="20181214T052204Z" creationid="faithsiauw" creationdate="20181214T052204Z">
+        <seg>"No, no, all this is what I should do..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“不用了！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180922T212123Z">
@@ -2233,6 +2241,14 @@ Manager Rong hurriedly shouted to the group of individuals in Jiang Yi's corner 
       </tuv>
       <tuv lang="EN-US" changeid="xingtingjing" changedate="20181213T172218Z">
         <seg>"Actually, these two are consigned for sale by someone else. The price he quoted was really..." </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“其实，我是有私心的。”陈子新打断了她拒绝的话，往前走了一步。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="faithsiauw" changedate="20181214T052247Z" creationid="faithsiauw" creationdate="20181214T052247Z">
+        <seg>"Actually, I do have some motive." Chen Zixin interrupted her rejection and stepped forward.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4239,6 +4255,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T060941Z">
         <seg>"Yes, I should go inform Chief Rong first."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“嗯，发布会已经结束了，我正打算……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="faithsiauw" changedate="20181214T053244Z" creationid="faithsiauw" creationdate="20181214T053244Z">
+        <seg>"Mmm, the news conference has ended. I was planning to..."</seg>
       </tuv>
     </tu>
     <tu>
@@ -6663,6 +6687,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       </tuv>
       <tuv lang="EN-US" changeid="baeyzoer" changedate="20181213T094435Z">
         <seg>"I'm Felic, from Jarrosus." Lin Li introduced himself and held out his hand. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“我听说，这次的发布会，全都是你负责的，就连上心会答应盛达科技的代言，也是因为你。”陈子新目光灼灼的看着她，很温和的询问，“我想要请你吃饭，当作是感谢，不知道年主管有没有时间？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="faithsiauw" changedate="20181214T052140Z" creationid="faithsiauw" creationdate="20181214T052140Z">
+        <seg>"I've heard that you were fully responsible for this news conference. Even the fact that Shangxin agreed to speak for Shengda Technologies was because of you." Chen Zixin looked at her with keen, sparkling eyes . He asked warmly: "I want to treat you to a meal as thanks. Would Supervisor Nian have some time to spare?" </seg>
       </tuv>
     </tu>
     <tu>
@@ -11058,6 +11090,14 @@ Jiang Yi was rendered speechless, as he found something wrong with a strand of b
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“那还不走？”余越寒冷冷的启唇打断她的话。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="faithsiauw" changedate="20181214T053351Z" creationid="faithsiauw" creationdate="20181214T053351Z">
+        <seg>"Then are you not leaving?" Yu Yuehan coldly interrupted her.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“那还有个老二呢？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180912T081541Z">
@@ -11838,8 +11878,8 @@ Jiang Yi’s heart ached as he read Xiaonu’s ugly, spider-like handwriting.</s
       <tuv lang="ZH-CN">
         <seg>一双漂亮的眼睛，扑簌扑簌，很吸引人。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="faithsiauw" changedate="20181214T051525Z" creationid="faithsiauw" creationdate="20181214T051525Z">
-        <seg>His eyes were </seg>
+      <tuv lang="EN-US" changeid="faithsiauw" changedate="20181214T051800Z" creationid="faithsiauw" creationdate="20181214T051525Z">
+        <seg>His beautiful eyes were watery and very attractive. </seg>
       </tuv>
     </tu>
     <tu>
@@ -13825,6 +13865,14 @@ He had just the right time to carefully research the black essence force.</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>也不知道已经在那里站了多久。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="faithsiauw" changedate="20181214T052940Z" creationid="faithsiauw" creationdate="20181214T052940Z">
+        <seg>They did not know how long he had been standing there.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>也不知道究竟是为什么，林立总是觉得，老头脸上的笑容有些居心叵测。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180801T043432Z">
@@ -15091,6 +15139,14 @@ He observed the palm in front of his eyes still in the midst of slapping downwar
       </tuv>
       <tuv lang="EN-US" changeid="cktal" changedate="20180813T072039Z">
         <seg>He remembered very clearly; when he first performed his low-levelled spell, he was thirty years old and had just became a mage.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>他很高，站在年小慕面前，身影完全将她笼罩住了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="faithsiauw" changedate="20181214T052316Z" creationid="faithsiauw" creationdate="20181214T052316Z">
+        <seg>He was very tall. When he stood in front of Nian Xiaomu, his shadow completely shrouded her. </seg>
       </tuv>
     </tu>
     <tu>
@@ -16721,6 +16777,22 @@ Should he ever dare to head up the Western Hills, he would have no other future 
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180907T044538Z">
         <seg>A detailed map of the Forest of Whispers was sold in the Adventurers Guild for a mere ten gold coins. The features of the castle were also clearly described in the mission—a black castle that appeared only after dark. Completing the quest was only a matter of time with these two clues. Moreover, the reward was as high as 100 gold coins, which was much more cost-effective than hunting for Manticores in the Sunset Mountains.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>余越寒却没有看他，而是径直的看向年小慕，“忙完了？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="faithsiauw" changedate="20181214T053218Z" creationid="faithsiauw" creationdate="20181214T053218Z">
+        <seg>Yu Yuehan did not look at him. Instead, he looked straight at Nian Xiaomu. "Are you done?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>余越寒尊贵的身影，就站在墙边，淡漠的眼神，朝着他们的方向瞥了一眼。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="faithsiauw" changedate="20181214T053358Z" creationid="faithsiauw" creationdate="20181214T052926Z">
+        <seg>Yu Yuehan's respectable figure was standing by the wall. He was glancing apathetically in their direction. </seg>
       </tuv>
     </tu>
     <tu>
@@ -19363,6 +19435,14 @@ Additionally, once his sense of smell became stronger, he was able to smell even
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180829T084139Z">
         <seg>The two men rushed forward upon hearing Ina's cries.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>听见年小慕的声音，踱步上前。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="faithsiauw" changedate="20181214T053002Z" creationid="faithsiauw" creationdate="20181214T053002Z">
+        <seg>When he heard Nian Xiaomu's voice, he strolled towards them.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23347,6 +23427,14 @@ This time he prepared to store extra—by not sleeping and instead extracting fo
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>微微垂眸，很认真的看着她，神色看起来有点紧张，像是准备告白一样。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="faithsiauw" changedate="20181214T052416Z" creationid="faithsiauw" creationdate="20181214T052416Z">
+        <seg>He looked down slightly and looked at her very seriously. He looked somewhat nervous, as if he were preparing to confess to her.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>心里虽然有些哭笑不得，面上却是丝毫不露端倪，干脆来了个顺水推车，闭着眼睛认了葛瑞安这个便宜叔叔。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180914T052742Z">
@@ -24555,6 +24643,14 @@ Despite this, after researching for a single day, no matter what ideas he could 
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T055759Z">
         <seg>From the side room immediately came a furious roar: "Damn it! This cauldron contained Man-tier superior-grade Spirit Pills! I’m going to kill you, Jiang Yi!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>旋即，扭头朝着自己身后看过去……</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="faithsiauw" changedate="20181214T052738Z" creationid="faithsiauw" creationdate="20181214T052738Z">
+        <seg>He immediately turned his head to look behind him...</seg>
       </tuv>
     </tu>
     <tu>
@@ -31001,6 +31097,14 @@ Immediately being reminded of something, he grinned widely as he said, "Xiaonu, 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>没等他开口，年小慕眼角的余光突然瞥见拐弯处站在一个人，下意识的喊出声，“寒少。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="faithsiauw" changedate="20181214T052636Z" creationid="faithsiauw" creationdate="20181214T052636Z">
+        <seg>Nian Xiaomu did not wait for him to speak. She detected someone standing at the bend through the corner of her eye and unconsciously shouted out: "Hanshao."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>没等江逸看够玩够时，黑色元力再次消耗完毕，世界又恢复了原样。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T013941Z">
@@ -35958,6 +36062,14 @@ Regardless of whether Jiang Yi was only suited to practice the lowest level of m
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>见年小慕愣住不说话，才扭头看向陈子新，“你还有事？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="faithsiauw" changedate="20181214T053645Z" creationid="faithsiauw" creationdate="20181214T053645Z">
+        <seg>Seeing that Nian Xiaomu was astonished into speechlessness, he then turned to Chen Zixin and asked: "Do you have anything else to settle?" </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>见林立一脸陶醉，红发美女心中的屈辱更甚，暗自骂了一声“小人得志”之后，却又很快被林立的话吸引住了。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180910T055324Z">
@@ -38850,10 +38962,26 @@ Instead, he turned his body and was about to walk in the direction of the Jiang 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>闻言，陈子新微微一怔。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="faithsiauw" changedate="20181214T052715Z" creationid="faithsiauw" creationdate="20181214T052715Z">
+        <seg>When he heard this, Chen Zixin was slightly terrified.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>阴影之巢能给他们什么？无非就是金钱装备，可这些东西，魔法公会根本就不缺，屠魔山谷每年数百万金币收入，装备一发就是一百套，各种药剂更是源源不断的发下来，在这样巨大的幸福当中，又有谁舍得离开？</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20181017T044802Z">
         <seg>What could the Shadow's Nest give them? It was nothing but money and equipment. The Guild of Magic had no lack of these. Every year, millions of gold coins were collected from the Demon Fall Valley; and now, 100 sets of equipment were provided at once, and various kinds of potions were distributed continuously. Bathed in such great happiness, who'd be willing to leave?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>陈子新看见他，连忙转身，笑着打招呼，“寒少，我爸经常跟我提起你，说你是商界不可多得的天才，让我多向你学习。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="faithsiauw" changedate="20181214T053130Z" creationid="faithsiauw" creationdate="20181214T053130Z">
+        <seg>When Chen Zixin saw him, he hastily turned and smiled at him. "Hanshao! My father often talked to me about you. He said that you were the exceptional genius of the business world, and that I should learn more from you.  </seg>
       </tuv>
     </tu>
     <tu>
