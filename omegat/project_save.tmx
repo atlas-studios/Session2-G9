@@ -5461,8 +5461,8 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       <tuv lang="ZH-CN">
         <seg>“干它们。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Agnes" changedate="20181211T143201Z" creationid="Agnes" creationdate="20181211T143201Z">
-        <seg>“Finish them."</seg>
+      <tuv lang="EN-US" changeid="Agnes" changedate="20181214T012616Z" creationid="Agnes" creationdate="20181211T143201Z">
+        <seg>“Kill them all." </seg>
       </tuv>
     </tu>
     <tu>
@@ -18599,6 +18599,14 @@ Additionally, once his sense of smell became stronger, he was able to smell even
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>四周一片鲜红，狼王那一身灰白的毛皮显得异常扎眼，此时它正发出一阵阵低沉的咆哮，额头上的独眼隐隐闪动着妖异的红光，在那低沉的咆哮声召唤下，大量的三眼血狼正不断从树林中涌出，一头两头三头……越来越多，越来越密，远远望去，就好象一片红色的血海。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Agnes" changedate="20181214T012533Z" creationid="Agnes" creationdate="20181214T012533Z">
+        <seg>Surrounded by a pool of bright red, the Wolf King's ash-grey fur was unusually blinding. At that instant, he let out a series of low growls, the third eye on his forehead faintly flickering with an unearthly red light. Under his command, large packs of wolves contnuously emerged from the forest. One, two, three... more and more of them appeared. From afar, it was like an ocean of blood.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>四周所有冥将悉数下跪称是，其中一名数百丈巨大的骸骨将领率先站起，他那白骨上的符文暗灰色符文闪耀，整具身体激发出一道冲天暗芒，从其颅腔内传出一声惊天怒吼：“全力进攻！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T005532Z" creationid="USER" creationdate="20180803T091836Z">
@@ -24366,8 +24374,8 @@ The person who arrived was a teenage girl dressed in fiery-red martial artist ro
       <tuv lang="ZH-CN">
         <seg>林立咬了咬牙，从牙缝中吐出了三个字。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Agnes" changedate="20181211T143806Z" creationid="Agnes" creationdate="20181211T143806Z">
-        <seg>Lin Li clenched his teeth </seg>
+      <tuv lang="EN-US" changeid="Agnes" changedate="20181214T012626Z" creationid="Agnes" creationdate="20181211T143806Z">
+        <seg>Lin Li clenched his teeth and spat out these three words.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29879,6 +29887,14 @@ Besides, should Elder Liu return, he could just say that he was trying to learn 
       </tuv>
       <tuv lang="EN-US" changeid="cktalon" changedate="20180910T024943Z" creationid="Vivian" creationdate="20180902T141656Z">
         <seg>And then both of them went into the reception room again; this time, the content of their conversation was kept secret even from Kevin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>然后两人就听见，一阵急促的咒语吟唱声传来，林立的吟唱又快又急，在庞大的精神力支撑下，他正疯狂的压缩着咒语吟唱时间，长达五秒的霜结术咒语，在他口中竟只用了三秒就已完成，这种事大概也只有林立能干得出来，换了任何一个魔法师，恐怕都会因为吟唱速度过快而招致魔力反噬。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Agnes" changedate="20181214T012909Z" creationid="Agnes" creationdate="20181214T012909Z">
+        <seg>Afterwards, both of them could hear someone rapidly reciting. Lin Li was reciting fast and urgently, insanely reducing the amount of time needed to recite a full spell. he merely needed three seconds to recite the Frost Spell which usually required five seconds. This was something only Lin Li could achieve. If it were to be any other mage, a counter-reaction would happen due to reciting a spell too quickly. </seg>
       </tuv>
     </tu>
     <tu>
@@ -37334,6 +37350,14 @@ Instead, he turned his body and was about to walk in the direction of the Jiang 
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T005551Z" creationid="USER" creationdate="20180803T095423Z">
         <seg>Following those words, the resplendent and dazzling barrier that shielded the Heavenly Court's periphery suddenly diminished before disappearing completely. The lively floral and creature carvings stopped moving, and the rainbow-colored runes inside and outside the buildings stopped emitting light.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>随着霜结术的最后一个字符吐出，刚刚被飞火流星点燃的空气，刹时间就降到了冰点，然后就看见白茫茫的雾气弥漫而起，冰寒刺骨的魔法元素在狼群当中席卷而过，只是一眨眼之间，就足有近十头血狼被冻成了鲜艳的冰雕。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Agnes" changedate="20181214T013109Z" creationid="Agnes" creationdate="20181214T013109Z">
+        <seg>Following the last word of the Frost Spell, the air that was just set ablaze by flying fire-meteors instantly dropped till freezing temperatures. A white layer of fog slowly rose, and the bone-chilling magical elements from the spell swept through the wolves. In the blink of an eye, around 10 wolves became frozen ice statues.</seg>
       </tuv>
     </tu>
     <tu>
