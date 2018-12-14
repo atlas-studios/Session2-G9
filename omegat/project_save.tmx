@@ -5811,6 +5811,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“年主管，发布会很成功，恭喜你。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="baeyzoer" changedate="20181214T061204Z" creationid="baeyzoer" creationdate="20181214T060521Z">
+        <seg>"Supervisor Nian, the conference was a huge success. Congratulations." </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“幻影拳！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180819T084406Z">
@@ -8627,6 +8635,14 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       </tuv>
       <tuv lang="EN-US" changeid="Agnes" changedate="20181214T042810Z" creationid="Agnes" creationdate="20181214T042810Z">
         <seg>"Idiot, stop daydreaming!"  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“盛达科技的小陈总看了发布会很满意，希望由你继续来负责接下来的项目，他明天会亲自去公司跟你对接。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="baeyzoer" changedate="20181214T061655Z" creationid="baeyzoer" creationdate="20181214T061141Z">
+        <seg>"CEO Chen from Shangda Technologies was very pleased with the conference, and hopes to continue to put you in charge of the subsequent projects. He will personally visit the company tomorrow to discuss matters with you." </seg>
       </tuv>
     </tu>
     <tu>
@@ -32747,8 +32763,8 @@ All of them were wearing masks of bronze-green beasts, with many of them having 
       <tuv lang="ZH-CN">
         <seg>第210章 有眼光！</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="baeyzoer" changedate="20181214T045152Z" creationid="baeyzoer" creationdate="20181214T045152Z">
-        <seg>Chapter 210: You Have Good Taste! </seg>
+      <tuv lang="EN-US" changeid="baeyzoer" changedate="20181214T061709Z" creationid="baeyzoer" creationdate="20181214T045152Z">
+        <seg>Chapter 210: Good Taste! </seg>
       </tuv>
     </tu>
     <tu>
